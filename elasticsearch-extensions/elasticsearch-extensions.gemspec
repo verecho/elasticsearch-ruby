@@ -61,6 +61,6 @@ Gem::Specification.new do |s|
   end
 
   # Gems for testing integrations
-  s.add_development_dependency "patron"
+  # s.add_development_dependency "patron"
   s.add_development_dependency "oj"
 end
